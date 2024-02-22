@@ -1,2 +1,2 @@
 # Machine_Learning_Operations
-MLFlow and Docker in Data Science
+Machine Learning Operations Projects (MLOps) with a focus on MLflow. Effectively using MLflow capabilities for the efficient deployment and management of machine learning models.
